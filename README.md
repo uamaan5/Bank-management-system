@@ -16,7 +16,24 @@ Swing-based GUI with user-friendly interface
 
 JDBC-based MySQL connectivity
 
-📁 Project Structure graphql Copy Edit BankingSystem/ ├── src/ │ ├── model/ # POJO classes (User, Account, Transaction) │ ├── dao/ # DAO classes & DBConnection │ ├── ui/ # Java Swing GUIs (Login, Dashboard, etc.) │ ├── utils/ # Input validation, password utilities │ └── Main.java # Entry point ├── db/ │ └── schema.sql # MySQL database script ├── assets/ # Screenshots or UI mockups ├── README.md └── .gitignore ⚙️ Technologies Used Java (JDK 8+)
+📁 Project Structure
+graphql
+Copy
+Edit
+BankingSystem/
+├── src/
+│   ├── model/           # POJO classes (User, Account, Transaction)
+│   ├── dao/             # DAO classes & DBConnection
+│   ├── ui/              # Java Swing GUIs (Login, Dashboard, etc.)
+│   ├── utils/           # Input validation, password utilities
+│   └── Main.java        # Entry point
+├── db/
+│   └── schema.sql       # MySQL database script
+├── assets/              # Screenshots or UI mockups
+├── README.md
+└── .gitignore
+⚙️ Technologies Used
+Java (JDK 8+)
 
 Java Swing (GUI)
 
